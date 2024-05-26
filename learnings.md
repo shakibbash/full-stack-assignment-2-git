@@ -6,4 +6,4 @@
 5. Git merging helps you integrate changes from different branches.
  # other two
 6. Git enables collaboration through distributed version control.
-7. GitHub Issues are a great way to track tasks and feature requests.
+7. GitHub Issues are a great way to track tasks and feature requests
